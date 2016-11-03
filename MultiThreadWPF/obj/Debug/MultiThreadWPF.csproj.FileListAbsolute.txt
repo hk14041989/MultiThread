@@ -1,0 +1,13 @@
+d:\users\kienpham\documents\visual studio 2013\Projects\GetAsyncWPF\MultiThreadWPF\bin\Debug\MultiThreadWPF.exe.config
+d:\users\kienpham\documents\visual studio 2013\Projects\GetAsyncWPF\MultiThreadWPF\bin\Debug\MultiThreadWPF.exe
+d:\users\kienpham\documents\visual studio 2013\Projects\GetAsyncWPF\MultiThreadWPF\bin\Debug\MultiThreadWPF.pdb
+d:\users\kienpham\documents\visual studio 2013\Projects\GetAsyncWPF\MultiThreadWPF\obj\Debug\MultiThreadWPF.csprojResolveAssemblyReference.cache
+d:\users\kienpham\documents\visual studio 2013\Projects\GetAsyncWPF\MultiThreadWPF\obj\Debug\MainWindow.baml
+d:\users\kienpham\documents\visual studio 2013\Projects\GetAsyncWPF\MultiThreadWPF\obj\Debug\MainWindow.g.cs
+d:\users\kienpham\documents\visual studio 2013\Projects\GetAsyncWPF\MultiThreadWPF\obj\Debug\App.g.cs
+d:\users\kienpham\documents\visual studio 2013\Projects\GetAsyncWPF\MultiThreadWPF\obj\Debug\MultiThreadWPF_MarkupCompile.cache
+d:\users\kienpham\documents\visual studio 2013\Projects\GetAsyncWPF\MultiThreadWPF\obj\Debug\MultiThreadWPF.g.resources
+d:\users\kienpham\documents\visual studio 2013\Projects\GetAsyncWPF\MultiThreadWPF\obj\Debug\MultiThreadWPF.Properties.Resources.resources
+d:\users\kienpham\documents\visual studio 2013\Projects\GetAsyncWPF\MultiThreadWPF\obj\Debug\MultiThreadWPF.csproj.GenerateResource.Cache
+d:\users\kienpham\documents\visual studio 2013\Projects\GetAsyncWPF\MultiThreadWPF\obj\Debug\MultiThreadWPF.exe
+d:\users\kienpham\documents\visual studio 2013\Projects\GetAsyncWPF\MultiThreadWPF\obj\Debug\MultiThreadWPF.pdb

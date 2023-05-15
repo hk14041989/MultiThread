@@ -24,6 +24,7 @@ namespace MultiThreadWPF
         public MainWindow()
         {
             InitializeComponent();
+            // KienPH
         }
 
         private void btnDoSynchronousCalculation_Click(object sender, RoutedEventArgs e)

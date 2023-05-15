@@ -11,3 +11,18 @@ d:\users\kienpham\documents\visual studio 2013\Projects\GetAsyncWPF\MultiThreadW
 d:\users\kienpham\documents\visual studio 2013\Projects\GetAsyncWPF\MultiThreadWPF\obj\Debug\MultiThreadWPF.csproj.GenerateResource.Cache
 d:\users\kienpham\documents\visual studio 2013\Projects\GetAsyncWPF\MultiThreadWPF\obj\Debug\MultiThreadWPF.exe
 d:\users\kienpham\documents\visual studio 2013\Projects\GetAsyncWPF\MultiThreadWPF\obj\Debug\MultiThreadWPF.pdb
+C:\Users\phamh\Source\Repos\MultiThread\MultiThreadWPF\bin\Debug\MultiThreadWPF.exe.config
+C:\Users\phamh\Source\Repos\MultiThread\MultiThreadWPF\bin\Debug\MultiThreadWPF.exe
+C:\Users\phamh\Source\Repos\MultiThread\MultiThreadWPF\bin\Debug\MultiThreadWPF.pdb
+C:\Users\phamh\Source\Repos\MultiThread\MultiThreadWPF\obj\Debug\MultiThreadWPF.csproj.AssemblyReference.cache
+C:\Users\phamh\Source\Repos\MultiThread\MultiThreadWPF\obj\Debug\MultiThreadWPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\phamh\Source\Repos\MultiThread\MultiThreadWPF\obj\Debug\MainWindow.baml
+C:\Users\phamh\Source\Repos\MultiThread\MultiThreadWPF\obj\Debug\MainWindow.g.cs
+C:\Users\phamh\Source\Repos\MultiThread\MultiThreadWPF\obj\Debug\App.g.cs
+C:\Users\phamh\Source\Repos\MultiThread\MultiThreadWPF\obj\Debug\MultiThreadWPF_MarkupCompile.cache
+C:\Users\phamh\Source\Repos\MultiThread\MultiThreadWPF\obj\Debug\MultiThreadWPF.g.resources
+C:\Users\phamh\Source\Repos\MultiThread\MultiThreadWPF\obj\Debug\MultiThreadWPF.Properties.Resources.resources
+C:\Users\phamh\Source\Repos\MultiThread\MultiThreadWPF\obj\Debug\MultiThreadWPF.csproj.GenerateResource.cache
+C:\Users\phamh\Source\Repos\MultiThread\MultiThreadWPF\obj\Debug\MultiThreadWPF.csproj.CoreCompileInputs.cache
+C:\Users\phamh\Source\Repos\MultiThread\MultiThreadWPF\obj\Debug\MultiThreadWPF.exe
+C:\Users\phamh\Source\Repos\MultiThread\MultiThreadWPF\obj\Debug\MultiThreadWPF.pdb
